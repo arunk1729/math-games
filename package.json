@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-devkit/core": "^13.3.1",
     "@angular-devkit/schematics": "^13.3.1",
     "@angular/animations": "~13.3.1",
     "@angular/common": "~13.3.1",
@@ -23,6 +24,7 @@
     "@angular/pwa": "^0.13.8",
     "@angular/router": "~13.3.1",
     "@angular/service-worker": "~13.3.1",
+    "@schematics/angular": "^13.3.1",
     "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
     "jquery": "^3.3.1",
